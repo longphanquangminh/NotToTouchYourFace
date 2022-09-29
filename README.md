@@ -1,3 +1,9 @@
+https://www.npmjs.com/package/@mycv/f8-notification
+
+https://github.com/goldfire/howler.js
+
+https://github.com/tensorflow/tfjs-models (ctrl + F kiếm "mobilenet" và "knn"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
