@@ -2,7 +2,7 @@ https://www.npmjs.com/package/@mycv/f8-notification
 
 https://github.com/goldfire/howler.js
 
-https://github.com/tensorflow/tfjs-models (ctrl + F kiếm "mobilenet" và "knn"
+https://github.com/tensorflow/tfjs-models (CTRL + F kiếm "mobilenet" và "knn")
 
 # Getting Started with Create React App
 
